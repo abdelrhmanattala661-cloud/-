@@ -1,0 +1,6 @@
+{
+  "name": "MedAssistant",
+  "description": "A professional AI-powered medical assistant frontend for breast cancer information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
